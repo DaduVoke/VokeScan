@@ -1,5 +1,5 @@
 # VokeScan
-Port scanner tool with easy installation! Python programming language is used and The text in the program is Georgian  აღნიშნული ხელსაწყო გამოიყენება ღია და დახურული პორტების სკანირებისთვის 
+Port scanner 
 
 
 # Install
